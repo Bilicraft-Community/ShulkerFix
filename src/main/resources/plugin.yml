@@ -1,0 +1,5 @@
+name: ShulkerFix
+version: ${project.version}
+main: com.bilicraft.shulkerfix.ShulkerFix
+api-version: 1.17
+description: 修复潜影贝互相敌对攻击并造成潜在子弹堆积问题
